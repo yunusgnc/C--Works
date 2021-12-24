@@ -13,8 +13,6 @@ namespace Cekilis_Projesi
             Console.WriteLine("Toplam 7 sayı tahmin ediniz. Tahmin ediceğiniz sayılar arasında bir boşluk bırakınız lütfen..");
             string num, continues;
             bool control=true;
-
-
             while (control)
             {
                 Console.Write("Sayıları Giriniz : => ");
@@ -27,7 +25,6 @@ namespace Cekilis_Projesi
                 Console.Write("Çekiliş Sonucu   : => ");
                 for (int i = 0; i < numbers.Length; i++)
                 {
-
                     int sayi = randomNum.Next(0, 9);
                     Console.Write(sayi + " ");
                     if (numbers[i] == sayi.ToString())
@@ -70,8 +67,11 @@ namespace Cekilis_Projesi
                 continues = Console.ReadLine();
                 Console.WriteLine("---------------------------------------------");
                 if (!continues.Equals("E"))
+                {
                     control = false;
-                
+                    Console.WriteLine("Oyunu Bitti.");
+                }
+
             }
             
            
