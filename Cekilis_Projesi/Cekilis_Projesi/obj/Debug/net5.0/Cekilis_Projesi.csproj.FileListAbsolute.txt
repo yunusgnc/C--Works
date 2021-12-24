@@ -1,0 +1,16 @@
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\bin\Debug\net5.0\Cekilis_Projesi.exe
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\bin\Debug\net5.0\Cekilis_Projesi.deps.json
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\bin\Debug\net5.0\Cekilis_Projesi.runtimeconfig.json
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\bin\Debug\net5.0\Cekilis_Projesi.runtimeconfig.dev.json
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\bin\Debug\net5.0\Cekilis_Projesi.dll
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\bin\Debug\net5.0\ref\Cekilis_Projesi.dll
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\bin\Debug\net5.0\Cekilis_Projesi.pdb
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\obj\Debug\net5.0\Cekilis_Projesi.csproj.AssemblyReference.cache
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\obj\Debug\net5.0\Cekilis_Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\obj\Debug\net5.0\Cekilis_Projesi.AssemblyInfoInputs.cache
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\obj\Debug\net5.0\Cekilis_Projesi.AssemblyInfo.cs
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\obj\Debug\net5.0\Cekilis_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\obj\Debug\net5.0\Cekilis_Projesi.dll
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\obj\Debug\net5.0\ref\Cekilis_Projesi.dll
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\obj\Debug\net5.0\Cekilis_Projesi.pdb
+C:\Users\Aubameyang\Desktop\c#\Cekilis_Projesi\Cekilis_Projesi\obj\Debug\net5.0\Cekilis_Projesi.genruntimeconfig.cache
