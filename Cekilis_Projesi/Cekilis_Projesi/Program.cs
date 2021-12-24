@@ -66,7 +66,7 @@ namespace Cekilis_Projesi
                 }
                 
                 Console.WriteLine("Bakiyeniz : " + balance);
-                Console.Write("Devam mı (E/H)");
+                Console.Write("Devam mı (E/H) : ");
                 continues = Console.ReadLine();
                 Console.WriteLine("---------------------------------------------");
                 if (!continues.Equals("E"))
